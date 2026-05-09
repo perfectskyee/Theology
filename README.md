@@ -35,8 +35,8 @@ again and again:
 ## Layout
 
 - `docs/` — current working set of documents, served by GitHub Pages.
-- `docs/CLAUDE.md` — style and formatting guide for new documents.
 - `docs/_config.yml` — Jekyll config for the GitHub Pages site.
+- `CLAUDE.md` — style and formatting guide for new documents.
 
 ## A Note on AI
 
