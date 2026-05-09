@@ -5,14 +5,12 @@
 
 ## Doctrine Answer
 
-The Bible is made of 66 books that were all "given by the inspiration of
-God" ([WCF 1.2][wcf]).
-
-The Bible proves itself. We trust it because it comes from God, not
-because a person or a church says so ([WCF 1.4][wcf]).
-
-God loves His Word so much that He keeps it pure and protects it from
-being lost or changed ([WCF 1.8][wcf]).
+- The Bible is made of 66 books that were all "given by the
+  inspiration of God" ([WCF 1.2][wcf]).
+- The Bible proves itself. We trust it because it comes from God, not
+  because a person or a church says so ([WCF 1.4][wcf]).
+- God loves His Word so much that He keeps it pure and protects it
+  from being lost or changed ([WCF 1.8][wcf]).
 
 ## The Explanation
 
