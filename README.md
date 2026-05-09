@@ -34,8 +34,9 @@ again and again:
 
 ## Layout
 
-- `Next/` — current working set of documents.
-- `Next/CLAUDE.md` — style and formatting guide for new documents.
+- `docs/` — current working set of documents, served by GitHub Pages.
+- `docs/CLAUDE.md` — style and formatting guide for new documents.
+- `docs/_config.yml` — Jekyll config for the GitHub Pages site.
 
 ## A Note on AI
 
