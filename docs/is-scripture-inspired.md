@@ -3,15 +3,6 @@
 > **Q:** How can we trust the Bible is 100 percent Holy Spirit inspired
 > and no human error got in the way?
 
-## Doctrine Answer
-
-- The Bible is made of 66 books that were all "given by the
-  inspiration of God" ([WCF 1.2][wcf]).
-- The Bible proves itself. We trust it because it comes from God, not
-  because a person or a church says so ([WCF 1.4][wcf]).
-- God loves His Word so much that He keeps it pure and protects it
-  from being lost or changed ([WCF 1.8][wcf]).
-
 ## The Explanation
 
 What an excellent question! I can tell you've been thinking deeply about
@@ -59,6 +50,15 @@ textbook. It means it tells the truth!
 
 Because the Bible is God's very own speech, you can trust it to lead you
 perfectly to the God who loves you.
+
+## What Doctrine Says
+
+- The Bible is made of 66 books that were all "given by the
+  inspiration of God" ([WCF 1.2][wcf]).
+- The Bible proves itself. We trust it because it comes from God, not
+  because a person or a church says so ([WCF 1.4][wcf]).
+- God loves His Word so much that He keeps it pure and protects it
+  from being lost or changed ([WCF 1.8][wcf]).
 
 [wcf]: https://www.opc.org/wcf.html#Chapter_01
 [2tim-3-16]: https://www.esv.org/2+Timothy+3:16/
